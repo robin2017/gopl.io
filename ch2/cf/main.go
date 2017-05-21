@@ -11,8 +11,7 @@ import (
 	"fmt"
 	"os"
 	"strconv"
-
-	"gopl.io/ch2/tempconv"
+	"../../ch2/tempconv"
 )
 
 func main() {
